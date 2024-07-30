@@ -8,4 +8,4 @@
 4. [Kubernetes Networking](https://github.com/insiible-techup/kubernetes-notes/blob/main/4.Kubernetes-networking.md)
 5. [Storage in kubernetes](https://github.com/insiible-techup/kubernetes-notes/blob/main/5.Storage-in-kubernetes.md)
 6. [Configuration and security](https://github.com/insiible-techup/kubernetes-notes/blob/main/6.Configuration%20-and-security.md)
-7. [.Intro to helm](https://github.com/insiible-techup/kubernetes-notes/blob/main/7.Intro-to-helm.md)
+7. [Intro to helm](https://github.com/insiible-techup/kubernetes-notes/blob/main/7.Intro-to-helm.md)
